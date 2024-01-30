@@ -10,7 +10,7 @@
 
 
 
-#Chinese
+# Chinese
 # 我的第一个仓库👍---------获取 π
 ## 使用步骤：
 ### 第 1 步：从 https://www.python.org/downloads/release/python-3121/ 下载 Python
