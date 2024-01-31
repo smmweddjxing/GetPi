@@ -2,6 +2,7 @@
 # My First Repository👍---------Get Pi
 ## STEPS FOR USE:
 ### Step 1 Download Python from https://www.python.org/downloads/release/python-3121/
+#### Step 1.1 Run `pip install tqdm`
 ### Step 2 Download Code from this page
 ### Step 3 Run "getpi.py" with python
 ### Step 4 Enjoy it!
